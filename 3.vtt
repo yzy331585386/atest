@@ -1,0 +1,983 @@
+WEBVTT
+
+00:00:18.733 --> 00:00:21.133
+Economic constraints prevent more than one
+
+00:00:21.133 --> 00:00:23.066
+third of the global population
+
+00:00:23.066 --> 00:00:25.300
+from affording a healthy diet.
+
+00:00:25.533 --> 00:00:27.666
+What can we do to help these people?
+
+00:00:27.866 --> 00:00:30.800
+We found that soybean is cold and drought resistant,
+
+00:00:30.800 --> 00:00:32.866
+high in protein and healthy fats.
+
+00:00:32.866 --> 00:00:35.000
+It can also improve soil quality,
+
+00:00:35.133 --> 00:00:38.100
+make it one of the best choices for cultivation
+
+00:00:38.100 --> 00:00:40.133
+in impoverished areas.
+
+00:00:40.533 --> 00:00:42.800
+We are delighted to see the potential of soybeans
+
+00:00:42.800 --> 00:00:44.166
+in malnutrition-
+
+00:00:44.166 --> 00:00:45.333
+poverty dilemma.
+
+00:00:45.400 --> 00:00:47.333
+How about transform soybeans to
+
+00:00:47.333 --> 00:00:49.166
+kill two birds with one stone?
+
+00:00:49.400 --> 00:00:52.100
+Nodule is a dense structure at the roots of soybeans,
+
+00:00:52.100 --> 00:00:55.000
+featuring a natural microaerobic environment,
+
+00:00:55.000 --> 00:00:56.166
+which is precious,
+
+00:00:56.900 --> 00:00:58.166
+because microaerobic
+
+00:00:58.166 --> 00:01:01.366
+nutrient is expensive for its demanding production.
+
+00:01:01.400 --> 00:01:03.266
+We decided to make use of it
+
+00:01:03.266 --> 00:01:06.300
+by producing microaerobic nutrients within it.
+
+00:01:06.766 --> 00:01:08.733
+So what we could actually produce?
+
+00:01:08.733 --> 00:01:10.200
+Inspired by an interview,
+
+00:01:10.200 --> 00:01:12.666
+we pay attention to omega-3 PUFA,
+
+00:01:12.666 --> 00:01:15.666
+which includes EPA and DHA in fish oil.
+
+00:01:16.000 --> 00:01:18.100
+Instead of catching deep-sea fish,
+
+00:01:18.100 --> 00:01:20.466
+why not use our "Nododule Factory"?
+
+00:01:20.900 --> 00:01:22.000
+We plan to engineer
+
+00:01:22.000 --> 00:01:24.766
+rhizobia living in the nodule to produce EPA
+
+00:01:24.766 --> 00:01:28.666
+and DHA, turning nodule into an intelligent factory.
+
+00:01:28.666 --> 00:01:32.100
+With this idea, we carry out the following experiments
+
+00:01:32.100 --> 00:01:33.133
+excitedly.
+
+00:01:34.266 --> 00:01:37.300
+We chose a kind of rhizobium, Sinorhizobium fredii
+
+00:01:37.300 --> 00:01:40.066
+CCBAU45436 as chassis,
+
+00:01:40.166 --> 00:01:41.266
+building up a set
+
+00:01:41.266 --> 00:01:44.300
+of regulation module in response to the changes of
+
+00:01:44.300 --> 00:01:45.766
+nitrogen and oxygen.
+
+00:01:46.066 --> 00:01:48.966
+Meanwhile, we selected genes encoding PUFA
+
+00:01:48.966 --> 00:01:51.500
+synthase and dipeptidyl aldehyde
+
+00:01:51.500 --> 00:01:54.766
+to preliminarily demonstrate the feasibility of
+
+00:01:54.766 --> 00:01:56.566
+"microarabic factory".
+
+00:01:56.600 --> 00:01:58.766
+In order to improve its efficiency,
+
+00:01:58.766 --> 00:02:01.333
+we adjusted the expression of relevant genes
+
+00:02:01.333 --> 00:02:01.666
+and
+
+00:02:01.666 --> 00:02:05.100
+designed the suicide circuit to avoid chassis leakage.
+
+00:02:05.333 --> 00:02:07.733
+PHB is an endogenous metabolite
+
+00:02:07.733 --> 00:02:10.966
+of our chassis with high expression, phaC2
+
+00:02:10.966 --> 00:02:13.000
+deletion causes decline
+
+00:02:13.000 --> 00:02:15.500
+of PHB synthesis in the chassis,
+
+00:02:15.600 --> 00:02:18.000
+so that the content of acetyl-CoA
+
+00:02:18.000 --> 00:02:19.533
+can relatively increase,
+
+00:02:19.533 --> 00:02:23.333
+providing sufficient substrate for the synthesis of PUFA.
+
+00:02:23.333 --> 00:02:25.300
+glnK promoter is an endogenous
+
+00:02:25.300 --> 00:02:28.400
+inducible promoter that is activated under
+
+00:02:28.400 --> 00:02:30.200
+low nitrogen conditions.
+
+00:02:30.333 --> 00:02:33.500
+nifH promoter is also endogenous and inducible
+
+00:02:33.500 --> 00:02:35.000
+and is activated under
+
+00:02:35.000 --> 00:02:36.766
+low oxygen conditions.
+
+00:02:36.966 --> 00:02:40.100
+We introduced the CRISPRi system to form the "AND gate"
+
+00:02:40.100 --> 00:02:42.466
+for more accurate regulation.
+
+00:02:42.700 --> 00:02:45.766
+The non-cleavage-active Cas12k protein
+
+00:02:45.766 --> 00:02:47.466
+binds reversibly to
+
+00:02:47.466 --> 00:02:50.666
+target sequences under the guidance of sgRNA.
+
+00:02:51.133 --> 00:02:54.200
+It physically blocks transcription without cutting
+
+00:02:54.200 --> 00:02:55.000
+DNA.
+
+00:02:55.166 --> 00:02:58.866
+Signaling is used to achieve binding and dissociation
+
+00:02:58.866 --> 00:03:02.900
+of Cas12k regulating gene expression and repression.
+
+00:03:03.666 --> 00:03:05.133
+When rhizobia are free
+
+00:03:05.166 --> 00:03:07.366
+under high oxygen and low nitrogen,
+
+00:03:07.366 --> 00:03:10.166
+or when rhizobia perform nitrogen-fixing function
+
+00:03:10.166 --> 00:03:12.966
+by symbiotic colonization with plant roots
+
+00:03:12.966 --> 00:03:15.333
+under low oxygen and low nitrogen,
+
+00:03:15.533 --> 00:03:17.333
+the glnK promoter initiates the
+
+00:03:17.333 --> 00:03:19.733
+expression of sgRNA-GFP,
+
+00:03:19.900 --> 00:03:23.066
+which guides the constitutively expressed Cas12k
+
+00:03:23.066 --> 00:03:24.366
+to bind to the gfp
+
+00:03:24.366 --> 00:03:25.600
+gene sequences,
+
+00:03:25.733 --> 00:03:27.366
+thus blocking the initiation
+
+00:03:27.366 --> 00:03:29.933
+of downstream genes by the nifH promoter.
+
+00:03:29.933 --> 00:03:32.166
+And in the later stage of plant growth,
+
+00:03:32.166 --> 00:03:34.133
+supplemental application of
+
+00:03:34.133 --> 00:03:35.400
+nitrogen fertilizer
+
+00:03:35.400 --> 00:03:37.800
+elevates the nitrogen content in the soil,
+
+00:03:37.866 --> 00:03:41.000
+which made the activity of glnK promoter decrease.
+
+00:03:41.133 --> 00:03:45.100
+The expression of sgRNA-GFP decreases as a result.
+
+00:03:45.133 --> 00:03:48.533
+So Cas12k is unable to effectively deter downstream
+
+00:03:48.533 --> 00:03:49.600
+gene expression,
+
+00:03:49.733 --> 00:03:52.200
+thus realizing the initiation of downstream
+
+00:03:52.200 --> 00:03:55.000
+synthetic gene expression by the nifH promoter
+
+00:03:55.000 --> 00:03:57.333
+under hypoxic conditions.
+
+00:03:59.733 --> 00:04:03.200
+pfa biosynthetic gene cluster encodes PUFA
+
+00:04:03.200 --> 00:04:05.933
+synthases catalyzing synthesis of DHA,
+
+00:04:05.933 --> 00:04:09.600
+EPA and many other polyunsaturated fatty acids.
+
+00:04:09.666 --> 00:04:12.666
+It is the downstream gene of regulation module.
+
+00:04:12.666 --> 00:04:15.933
+We also chose the dipeptide aldehyde synthesis gene
+
+00:04:15.933 --> 00:04:18.866
+bgc33-sfp as downstream gene
+
+00:04:18.866 --> 00:04:20.133
+for verification.
+
+00:04:20.166 --> 00:04:22.500
+In the design of the suicide circuit,
+
+00:04:22.500 --> 00:04:25.400
+we used CRISPRi system and the endogenous toxin
+
+00:04:25.400 --> 00:04:26.566
+antitoxin system
+
+00:04:26.566 --> 00:04:27.666
+of the chassis.
+
+00:04:28.000 --> 00:04:32.100
+vapC encodes toxin, and vapB encodes antitoxin.
+
+00:04:32.166 --> 00:04:33.400
+The expression of these
+
+00:04:33.400 --> 00:04:36.900
+genes is regulated by the promoters nifH and glnK.
+
+00:04:37.166 --> 00:04:38.366
+Under high oxygen
+
+00:04:38.366 --> 00:04:42.100
+expression of vapB is suppressed, and under low nitrogen
+
+00:04:42.100 --> 00:04:44.966
+the CRISPRi system is activated to suppress
+
+00:04:44.966 --> 00:04:46.533
+expression of vapC.
+
+00:04:46.900 --> 00:04:50.366
+When rhizobium escapes from nodules to the high-nitrogen,
+
+00:04:50.366 --> 00:04:52.566
+high oxygen external environment
+
+00:04:52.733 --> 00:04:55.133
+vapC will be expressed normally,
+
+00:04:55.133 --> 00:04:58.266
+while vapB expression is suppressed by the high
+
+00:04:58.266 --> 00:04:59.800
+oxygen conditions.
+
+00:04:59.933 --> 00:05:02.533
+Toxin level exceeds antitoxin
+
+00:05:02.566 --> 00:05:04.533
+ultimately triggers suicide.
+
+00:05:06.366 --> 00:05:08.200
+In PHB deletion module,
+
+00:05:08.200 --> 00:05:11.366
+we successfully constructed the recombination plasmid
+
+00:05:11.366 --> 00:05:13.400
+and introduced it into chassis.
+
+00:05:14.166 --> 00:05:17.666
+We used transmission electron microscope to observe
+
+00:05:17.666 --> 00:05:20.466
+bacterial solution of the platform stage.
+
+00:05:20.533 --> 00:05:24.000
+the wild-type contained obvious PHB particles,
+
+00:05:24.000 --> 00:05:27.100
+while ∆phaC2 mutant contained no or less of that.
+
+00:05:27.300 --> 00:05:30.566
+Later, TLC identified that deletion of PHB
+
+00:05:30.566 --> 00:05:33.600
+could increase raw material of fatty acids.
+
+00:05:33.766 --> 00:05:36.666
+we also carried out plant system validation.
+
+00:05:36.700 --> 00:05:38.900
+there were no significant differences between
+
+00:05:38.900 --> 00:05:41.566
+wild-type and mutant-inoculated plants
+
+00:05:41.566 --> 00:05:43.166
+on phenotype. We
+
+00:05:43.166 --> 00:05:45.600
+identifies that deletion of phaC2
+
+00:05:45.600 --> 00:05:45.766
+did
+
+00:05:45.766 --> 00:05:48.733
+not affect the normal functions of rhizobium and the
+
+00:05:48.733 --> 00:05:50.200
+growth of plants.
+
+00:05:51.900 --> 00:05:54.933
+To test the efficiency of the regulation module,
+
+00:05:54.933 --> 00:05:57.466
+we detected the fluorescence intensity.
+
+00:05:57.866 --> 00:06:00.400
+We transfer the plasmid for dipeptide
+
+00:06:00.400 --> 00:06:02.566
+aldehyde synthesis in E. coli
+
+00:06:02.566 --> 00:06:05.900
+into S. fredii and conducted plant experiment.
+
+00:06:06.200 --> 00:06:08.466
+for phenotypes and nodule sections
+
+00:06:08.466 --> 00:06:10.733
+there were no significant differences, which
+
+00:06:10.733 --> 00:06:13.533
+identified that the synthesis module did not stress
+
+00:06:13.533 --> 00:06:15.733
+the normal functions of rhizobium.
+
+00:06:16.066 --> 00:06:16.733
+Afterwards,
+
+00:06:16.733 --> 00:06:20.366
+RT-qPCR and direct mass spectrometr
+
+00:06:20.500 --> 00:06:23.800
+dipeptide aldehyde was synthesized successfully.
+
+00:06:23.800 --> 00:06:27.700
+To verify the feasibility of phaC2 deletion and PUFA
+
+00:06:27.733 --> 00:06:29.966
+cluster transfer in Sinorhizobium,
+
+00:06:30.266 --> 00:06:32.733
+we use the flux balance analysis.
+
+00:06:33.400 --> 00:06:36.400
+it relies on previous studies instead of
+
+00:06:36.400 --> 00:06:38.333
+detailed kinetic parameters,
+
+00:06:38.333 --> 00:06:39.866
+simulating the complete
+
+00:06:39.933 --> 00:06:43.600
+metabolic Passway and predicting the yield of DHA.
+
+00:06:43.666 --> 00:06:46.700
+By calculating the relevant reaction equations,
+
+00:06:46.700 --> 00:06:49.066
+we got the result of maximizing DHA
+
+00:06:49.100 --> 00:06:51.266
+yield, which is very substantial.
+
+00:06:52.266 --> 00:06:54.966
+We successfully constructed the recombination
+
+00:06:54.966 --> 00:06:56.700
+plasmid containing pfa
+
+00:06:56.700 --> 00:06:58.533
+biosynthetic gene cluster,
+
+00:06:58.533 --> 00:07:00.900
+and transported into our chassis.
+
+00:07:01.100 --> 00:07:04.466
+RT-qPCR was employed to quantify transcription
+
+00:07:04.466 --> 00:07:06.100
+level of the gene cluster.
+
+00:07:06.300 --> 00:07:09.666
+We also conducted TLC and gas chromatography,
+
+00:07:09.666 --> 00:07:12.766
+whose results are in line with the RT-qPCR,
+
+00:07:12.766 --> 00:07:14.366
+confirming that our chassis
+
+00:07:14.366 --> 00:07:16.733
+can perform synthesis function normally.
+
+00:07:18.500 --> 00:07:21.500
+Since we want to increase the productivity of EPA and
+
+00:07:21.500 --> 00:07:25.066
+DHA,  we aim to find the most influential factors
+
+00:07:25.066 --> 00:07:25.866
+by modeling.
+
+00:07:28.100 --> 00:07:31.400
+Considering DHA synthesis will change over time
+
+00:07:31.400 --> 00:07:33.966
+and qualitative analysis is required
+
+00:07:34.166 --> 00:07:36.300
+the ODEs model meets the need,
+
+00:07:36.500 --> 00:07:39.366
+which replaces the previous FBA model.
+
+00:07:39.800 --> 00:07:42.500
+After listing equations based on design,
+
+00:07:42.800 --> 00:07:46.533
+we plotted the time dependent curve of DHA yield
+
+00:07:46.733 --> 00:07:48.733
+with a sensitive analysis
+
+00:07:48.733 --> 00:07:51.666
+to investigate the main affecting factors.
+
+00:07:51.933 --> 00:07:55.900
+It was found that the activity of the PUFA synthase
+
+00:07:56.066 --> 00:07:58.900
+has a significant effect on the results
+
+00:07:58.966 --> 00:08:01.300
+and is regulated by nitrogen,
+
+00:08:01.600 --> 00:08:05.133
+so a nitrogen absorption model is established.
+
+00:08:05.333 --> 00:08:06.900
+based on the analysis,
+
+00:08:06.900 --> 00:08:09.166
+we should continuously adjust the
+
+00:08:09.166 --> 00:08:11.266
+nitrogen concentration in the future
+
+00:08:11.400 --> 00:08:14.933
+and make the peak of nitrogen absorption coincide
+
+00:08:15.066 --> 00:08:16.733
+with the synthetic stage.
+
+00:08:17.533 --> 00:08:20.466
+To verify the feasibility of the suicide circuit,
+
+00:08:20.733 --> 00:08:24.066
+we simulated the mechanism of it using ODEs
+
+00:08:24.133 --> 00:08:26.600
+and took the time factor into account.
+
+00:08:27.266 --> 00:08:28.600
+Then, we constructed
+
+00:08:28.600 --> 00:08:30.933
+equations for four different conditions,
+
+00:08:30.966 --> 00:08:33.133
+including corresponding parameters
+
+00:08:33.166 --> 00:08:35.666
+to simulate the actual situation.
+
+00:08:35.866 --> 00:08:39.000
+By calculating the net amount of toxin VapC,
+
+00:08:39.300 --> 00:08:40.366
+we found that
+
+00:08:40.366 --> 00:08:43.533
+transferred Sinorhizobium indeed accumulates
+
+00:08:43.533 --> 00:08:44.333
+VapC
+
+00:08:44.533 --> 00:08:47.733
+only after escaping, which leads to death.
+
+00:08:47.900 --> 00:08:48.566
+Finally,
+
+00:08:48.566 --> 00:08:51.966
+we fitted the four conditions in chronological order,
+
+00:08:52.266 --> 00:08:55.933
+and the amount of net toxin changed as expected.
+
+00:08:57.000 --> 00:08:58.733
+We utilized the fluorescence
+
+00:08:58.733 --> 00:09:00.966
+expression intensity and found that
+
+00:09:00.966 --> 00:09:02.333
+under low oxygen,
+
+00:09:02.466 --> 00:09:02.900
+different
+
+00:09:02.900 --> 00:09:05.733
+nitrogen concentrations significantly affected the
+
+00:09:05.733 --> 00:09:07.000
+expression intensity
+
+00:09:07.000 --> 00:09:08.766
+of fluorescent proteins.
+
+00:09:08.866 --> 00:09:09.600
+It verifies
+
+00:09:09.600 --> 00:09:12.533
+that the CRISPRi system functioned properly.
+
+00:09:13.900 --> 00:09:17.000
+Then we added different concentrations of ammonia
+
+00:09:17.000 --> 00:09:20.366
+Chloride to the strains with suicide circuit plasmid,
+
+00:09:20.366 --> 00:09:23.733
+and investigated the changes of living bacteria after
+
+00:09:23.733 --> 00:09:26.966
+same interval under hyperoxic conditions.
+
+00:09:27.133 --> 00:09:28.466
+After a period of time,
+
+00:09:28.466 --> 00:09:31.733
+the OD 600 value of the bacterial solution
+
+00:09:31.733 --> 00:09:33.700
+with additional nitrogen source
+
+00:09:33.700 --> 00:09:35.200
+showed a decreasing trend
+
+00:09:35.200 --> 00:09:38.100
+and the decreasing trend was more obvious
+
+00:09:38.133 --> 00:09:40.133
+with the increase of the nitrogen.
+
+00:09:40.333 --> 00:09:42.166
+Under this experimental condition,
+
+00:09:42.166 --> 00:09:43.800
+it can be considered that
+
+00:09:43.800 --> 00:09:44.700
+our suicide
+
+00:09:44.700 --> 00:09:47.866
+circuit can be regulated by nitrogen concentration
+
+00:09:47.866 --> 00:09:50.700
+and the overall construction is successful.
+
+00:09:50.733 --> 00:09:54.333
+Besides, under high nitrogen and high oxygen conditions,
+
+00:09:54.500 --> 00:09:56.466
+colonies cultured for five days
+
+00:09:56.466 --> 00:09:58.100
+showed a transparent color
+
+00:09:58.100 --> 00:09:59.100
+differed from those
+
+00:09:59.100 --> 00:10:01.733
+cultured for three days in milky white color,
+
+00:10:01.966 --> 00:10:03.133
+this is the most direct
+
+00:10:03.133 --> 00:10:04.533
+evidence that the suicide
+
+00:10:04.533 --> 00:10:06.966
+circuit was successfully constructed.
+
+00:10:08.733 --> 00:10:09.566
+In conclusion,
+
+00:10:09.566 --> 00:10:13.066
+we successfully build a sensitive regulation system
+
+00:10:13.100 --> 00:10:15.200
+with a coherent group of parts.
+
+00:10:15.200 --> 00:10:17.866
+Future can build upon this system
+
+00:10:17.933 --> 00:10:20.566
+to diversify the downstream products,
+
+00:10:20.566 --> 00:10:22.766
+turning the nodule factory into a
+
+00:10:22.766 --> 00:10:24.800
+biological factory with infinite
+
+00:10:24.800 --> 00:10:25.933
+possibilities,
+
+00:10:26.066 --> 00:10:28.133
+exactly the N. FACTORY!
+
+00:10:28.400 --> 00:10:30.733
+What's more, we found that lots of team
+
+00:10:30.733 --> 00:10:32.866
+had a similar need to predict yield,
+
+00:10:32.933 --> 00:10:36.866
+so we created a software POMPC based on the DHA model.
+
+00:10:37.800 --> 00:10:38.700
+By using it,
+
+00:10:38.700 --> 00:10:41.566
+we can input substrate concentrations and get
+
+00:10:41.566 --> 00:10:44.266
+the dynamics of product in each pathway.
+
+00:10:44.500 --> 00:10:45.800
+The software not only
+
+00:10:45.800 --> 00:10:48.266
+solves the difficulties of our project,
+
+00:10:48.466 --> 00:10:50.766
+but also helps other teams concerned
+
+00:10:50.766 --> 00:10:53.100
+with the complex metabolic pathways
+
+00:10:53.200 --> 00:10:55.700
+to analyze substrate interactions.
+
+00:10:55.800 --> 00:10:56.700
+In addition,
+
+00:10:57.066 --> 00:10:59.800
+we have constructed a nodule formation model
+
+00:10:59.966 --> 00:11:03.466
+to assist other teams who are interested in rhizobia
+
+00:11:03.566 --> 00:11:05.366
+to gain a deeper understanding.
+
+00:11:05.566 --> 00:11:09.400
+Furthermore, we also constructed the NtrC protein-
+
+00:11:09.400 --> 00:11:10.533
+DNA docking model
+
+00:11:10.533 --> 00:11:13.933
+to verify the feasibility of nitrogen regulation
+
+00:11:14.100 --> 00:11:15.300
+in other rhizobia,
+
+00:11:15.600 --> 00:11:19.133
+expanding the extensibility of our Nodule Factory.
+
+00:11:19.200 --> 00:11:23.100
+Human practices matters at every stage of our project,
+
+00:11:23.266 --> 00:11:23.600
+helping
+
+00:11:23.600 --> 00:11:26.933
+bring Nodule Factory from laboratory to reality.
+
+00:11:27.366 --> 00:11:30.866
+From the initial idea to the completion of the project,
+
+00:11:31.066 --> 00:11:34.933
+we conducted extensive interviews and benefited a lot.
+
+00:11:35.366 --> 00:11:36.566
+Our final idea
+
+00:11:36.566 --> 00:11:39.000
+was confirmed by the African Agriculture
+
+00:11:39.000 --> 00:11:40.100
+Extension Worker.
+
+00:11:40.500 --> 00:11:42.700
+Meanwhile, the iGEM philosophy has
+
+00:11:42.700 --> 00:11:45.500
+never advocated building castles in the air,
+
+00:11:45.966 --> 00:11:48.166
+we paid attention to the downstream,
+
+00:11:48.333 --> 00:11:52.066
+imagine the final product form S. fredii inoculant
+
+00:11:52.133 --> 00:11:54.133
+with matched instructions.
+
+00:11:54.133 --> 00:11:57.000
+What's more, we designed a supporting machine.
+
+00:11:57.333 --> 00:11:59.000
+By reviewing the literature,
+
+00:11:59.000 --> 00:12:00.166
+we found that nutrients
+
+00:12:00.166 --> 00:12:03.100
+in nodules could be transported to soybeans
+
+00:12:03.100 --> 00:12:04.600
+through transmembrane transport,
+
+00:12:04.866 --> 00:12:07.300
+which could make a leap in soybean quality
+
+00:12:07.300 --> 00:12:09.533
+and extend a series of soy products
+
+00:12:09.533 --> 00:12:10.500
+in the future.
+
+00:12:11.000 --> 00:12:12.000
+Our products
+
+00:12:12.000 --> 00:12:14.766
+are affordable nutrition for low-income people,
+
+00:12:14.900 --> 00:12:17.566
+and the professor who makes soy ice cream said
+
+00:12:17.666 --> 00:12:20.733
+he would like to use our soy as a raw material.
+
+00:12:21.266 --> 00:12:23.700
+Africa usually produces soybean oil,
+
+00:12:23.900 --> 00:12:25.166
+if we can produce high
+
+00:12:25.166 --> 00:12:27.733
+value added soy products such as ice cream,
+
+00:12:27.800 --> 00:12:29.300
+it will stimulate the local
+
+00:12:29.300 --> 00:12:32.533
+economy and perform the processing industry chain.
+
+00:12:33.066 --> 00:12:33.866
+In addition,
+
+00:12:33.866 --> 00:12:37.200
+we contribute to these sustainable development goals.
+
+00:12:38.400 --> 00:12:41.166
+Nodule factory can solve the dual dilemma of
+
+00:12:41.166 --> 00:12:42.666
+malnutrition and low income
+
+00:12:42.666 --> 00:12:44.333
+from four dimensions.
+
+00:12:45.866 --> 00:12:46.166
+It
+
+00:12:46.166 --> 00:12:49.500
+provides a novel paradigm for microaerobic production
+
+00:12:49.500 --> 00:12:52.933
+within nodule by diversifying downstream products.
+
+00:12:52.933 --> 00:12:55.000
+It is an inclusive production
+
+00:12:55.000 --> 00:12:57.100
+platform that can be continuously
+
+00:12:57.100 --> 00:12:58.933
+updated and developed.
+
+00:12:59.566 --> 00:13:02.100
+Compared to general microbial fermentation,
+
+00:13:02.100 --> 00:13:04.300
+it eliminates the need for additional
+
+00:13:04.300 --> 00:13:06.500
+equipment and human resources.
+
+00:13:06.500 --> 00:13:08.366
+It avoids chemical pollution,
+
+00:13:08.466 --> 00:13:10.366
+so it is an eco-friendly,
+
+00:13:10.366 --> 00:13:13.900
+responsible and sustainable production workshop.
+
+00:13:14.566 --> 00:13:16.800
+It develops the nodule economy,
+
+00:13:16.800 --> 00:13:19.366
+enhancing individual income and promoting
+
+00:13:19.366 --> 00:13:21.533
+local agriculture development.
+
+00:13:22.700 --> 00:13:25.066
+Governments can improve the economy with
+
+00:13:25.066 --> 00:13:26.666
+lower public spending.
+
+00:13:26.666 --> 00:13:30.400
+By producing relative expensive microaerobic nutrients
+
+00:13:30.400 --> 00:13:34.600
+at low coast, it promotes affordable and healthy diets,
+
+00:13:34.600 --> 00:13:36.066
+contributing to reduce
+
+00:13:36.066 --> 00:13:38.800
+stunted children and increase breast milk
+
+00:13:38.800 --> 00:13:41.066
+nutrition, helping eliminate
+
+00:13:41.066 --> 00:13:44.500
+malnutrition and reduce the low income population,
+
+00:13:44.600 --> 00:13:45.733
+so as to help
+
+00:13:45.733 --> 00:13:49.900
+narrow health disparities and reduce social inequality.
+
+00:13:50.800 --> 00:13:51.700
+In the future,
+
+00:13:51.700 --> 00:13:53.166
+people will be able to eat
+
+00:13:53.166 --> 00:13:55.666
+cheap nutrients produced by nodules,
+
+00:13:55.666 --> 00:13:58.400
+growing soybeans will become more profitable,
+
+00:13:58.500 --> 00:14:01.066
+soybeans will enrich the land, soy products
+
+00:14:01.066 --> 00:14:02.533
+factories will mushroom,
+
+00:14:02.533 --> 00:14:05.933
+and then people will become healthy and wealthy!
+
