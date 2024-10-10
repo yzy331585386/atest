@@ -31,7 +31,7 @@ in impoverished areas.
 We are delighted to see the potential of soybeans
 
 00:00:42.800 --> 00:00:44.166
-in malnutrition-
+in tackle malnutrition-
 
 00:00:44.166 --> 00:00:45.333
 poverty dilemma.
@@ -199,7 +199,7 @@ DNA.
 Signaling is used to achieve binding and dissociation
 
 00:02:58.866 --> 00:03:02.900
-of Cas12k regulating gene expression and repression.
+of Cas12k, regulating gene expression and repression.
 
 00:03:03.666 --> 00:03:05.133
 When rhizobia are free
@@ -232,6 +232,7 @@ to bind to the gfp
 gene sequences,
 
 00:03:25.733 --> 00:03:27.366
+
 thus blocking the initiation
 
 00:03:27.366 --> 00:03:29.933
@@ -274,7 +275,7 @@ under hypoxic conditions.
 pfa biosynthetic gene cluster encodes PUFA
 
 00:04:03.200 --> 00:04:05.933
-synthases catalyzing synthesis of DHA,
+synthases, catalyzing synthesis of DHA,
 
 00:04:05.933 --> 00:04:09.600
 EPA and many other polyunsaturated fatty acids.
@@ -334,13 +335,13 @@ high oxygen external environment
 vapC will be expressed normally,
 
 00:04:55.133 --> 00:04:58.266
-while vapB expression is suppressed by the high
+while vapB's expression is suppressed by the high
 
 00:04:58.266 --> 00:04:59.800
 oxygen conditions.
 
 00:04:59.933 --> 00:05:02.533
-Toxin level exceeds antitoxin
+Toxin level exceeds antitoxin,
 
 00:05:02.566 --> 00:05:04.533
 ultimately triggers suicide.
@@ -361,7 +362,7 @@ We used transmission electron microscope to observe
 bacterial solution of the platform stage.
 
 00:05:20.533 --> 00:05:24.000
-the wild-type contained obvious PHB particles,
+The wild-type contained obvious PHB particles,
 
 00:05:24.000 --> 00:05:27.100
 while ∆phaC2 mutant contained no or less of that.
@@ -373,10 +374,10 @@ Later, TLC identified that deletion of PHB
 could increase raw material of fatty acids.
 
 00:05:33.766 --> 00:05:36.666
-we also carried out plant system validation.
+We also carried out plant system validation.
 
 00:05:36.700 --> 00:05:38.900
-there were no significant differences between
+There were no significant differences between
 
 00:05:38.900 --> 00:05:41.566
 wild-type and mutant-inoculated plants
@@ -412,7 +413,7 @@ aldehyde synthesis in E. coli
 into S. fredii and conducted plant experiment.
 
 00:06:06.200 --> 00:06:08.466
-for phenotypes and nodule sections
+For phenotypes and nodule sections,
 
 00:06:08.466 --> 00:06:10.733
 there were no significant differences, which
@@ -427,7 +428,7 @@ the normal functions of rhizobium.
 Afterwards,
 
 00:06:16.733 --> 00:06:20.366
-RT-qPCR and direct mass spectrometr
+RT-qPCR and direct mass spectrometr confirmed that
 
 00:06:20.500 --> 00:06:23.800
 dipeptide aldehyde was synthesized successfully.
@@ -439,10 +440,10 @@ To verify the feasibility of phaC2 deletion and PUFA
 cluster transfer in Sinorhizobium,
 
 00:06:30.266 --> 00:06:32.733
-we use the flux balance analysis.
+we use the Flux Balance Analysis.
 
 00:06:33.400 --> 00:06:36.400
-it relies on previous studies instead of
+It relies on previous studies instead of
 
 00:06:36.400 --> 00:06:38.333
 detailed kinetic parameters,
@@ -451,7 +452,7 @@ detailed kinetic parameters,
 simulating the complete
 
 00:06:39.933 --> 00:06:43.600
-metabolic Passway and predicting the yield of DHA.
+metabolic pathway and predicting the yield of DHA.
 
 00:06:43.666 --> 00:06:46.700
 By calculating the relevant reaction equations,
@@ -472,7 +473,7 @@ plasmid containing pfa
 biosynthetic gene cluster,
 
 00:06:58.533 --> 00:07:00.900
-and transported into our chassis.
+and transferred it into our chassis.
 
 00:07:01.100 --> 00:07:04.466
 RT-qPCR was employed to quantify transcription
@@ -505,7 +506,7 @@ by modeling.
 Considering DHA synthesis will change over time
 
 00:07:31.400 --> 00:07:33.966
-and qualitative analysis is required
+and qualitative analysis is required,
 
 00:07:34.166 --> 00:07:36.300
 the ODEs model meets the need,
@@ -538,7 +539,7 @@ and is regulated by nitrogen,
 so a nitrogen absorption model is established.
 
 00:08:05.333 --> 00:08:06.900
-based on the analysis,
+Based on the analysis,
 
 00:08:06.900 --> 00:08:09.166
 we should continuously adjust the
@@ -646,10 +647,10 @@ the OD 600 value of the bacterial solution
 with additional nitrogen source
 
 00:09:33.700 --> 00:09:35.200
-showed a decreasing trend
+showed a decreasing trend.
 
 00:09:35.200 --> 00:09:38.100
-and the decreasing trend was more obvious
+And the decreasing trend was more obvious
 
 00:09:38.133 --> 00:09:40.133
 with the increase of the nitrogen.
@@ -727,7 +728,7 @@ What's more, we found that lots of team
 had a similar need to predict yield,
 
 00:10:32.933 --> 00:10:36.866
-so we created a software POMPC based on the DHA model.
+so we created a software, POMPC, based on the DHA model.
 
 00:10:37.800 --> 00:10:38.700
 By using it,
@@ -778,7 +779,7 @@ to verify the feasibility of nitrogen regulation
 in other rhizobia,
 
 00:11:15.600 --> 00:11:19.133
-expanding the extensibility of our Nodule Factory.
+expanding the extensibility of our "Nodule Factory".
 
 00:11:19.200 --> 00:11:23.100
 Human practices matters at every stage of our project,
@@ -787,7 +788,7 @@ Human practices matters at every stage of our project,
 helping
 
 00:11:23.600 --> 00:11:26.933
-bring Nodule Factory from laboratory to reality.
+bring "Nodule Factory" from laboratory to reality.
 
 00:11:27.366 --> 00:11:30.866
 From the initial idea to the completion of the project,
@@ -814,7 +815,7 @@ never advocated building castles in the air,
 we paid attention to the downstream,
 
 00:11:48.333 --> 00:11:52.066
-imagine the final product form S. fredii inoculant
+imagine the final product form of rhizobia inoculant
 
 00:11:52.133 --> 00:11:54.133
 with matched instructions.
@@ -862,7 +863,7 @@ Africa usually produces soybean oil,
 if we can produce high
 
 00:12:25.166 --> 00:12:27.733
-value added soy products such as ice cream,
+value-added soy products such as ice cream,
 
 00:12:27.800 --> 00:12:29.300
 it will stimulate the local
@@ -940,7 +941,7 @@ lower public spending.
 By producing relative expensive microaerobic nutrients
 
 00:13:30.400 --> 00:13:34.600
-at low coast, it promotes affordable and healthy diets,
+at low costs, it promotes affordable and healthy diets,
 
 00:13:34.600 --> 00:13:36.066
 contributing to reduce
